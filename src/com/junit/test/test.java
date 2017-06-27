@@ -8,5 +8,7 @@ public class test {
 		//test checkout
 		System.out.println("走你");
 		
+		System.out.println("the last line");
+		
 	}
 }
